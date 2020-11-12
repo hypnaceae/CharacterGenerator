@@ -10,3 +10,5 @@ future use, as Nebhos is set in a desert location, so many characters will be fu
 
 The program simply makes a random choice of traits and name phonemes from the given lists. Future versions should go into more 
 detail, including things like personality traits, occupations, and personal aspirations. 
+
+To adapt the program to your own setting, go into Chargen.py and edit the stored values as you wish. 
