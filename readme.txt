@@ -1,4 +1,4 @@
-CharGenExplorer is a demo for the first iteration of the random character generator for Nebhos based on Python3.
+CharGenExplorer is a demo for the first iteration of the random character generator for Nebhos written in Python 3.
 
 Usage: navigate to this directory in your terminal emulator of choice and enter `python CharGenExplorer.py`
 Choose whether to generate a list of characters or just one. You'll be shown a list of names. To see the physical
