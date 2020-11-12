@@ -5,8 +5,8 @@ Choose whether to generate a list of characters or just one. You'll be shown a l
 description of each character, go back to the main menu and select option 3. 
 Currently there is no way to delete or save characters: if you want to reset the list just exit and re-run the script.
 
-You will be asked to specify if characters should wear veils or not. This is just a quirk of the intended
-future use, as Nebhos is set in a desert location, so many characters will be fully veiled.
+You will be asked to specify if characters should wear veils or not. This is just a quirk of the intended use, as Nebhos is
+set in a desert location, so many characters will be fully veiled.
 
 The program simply makes a random choice of traits and name phonemes from the given lists. Future versions should go into more 
 detail, including things like personality traits, occupations, and personal aspirations. 
