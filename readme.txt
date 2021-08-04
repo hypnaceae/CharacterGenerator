@@ -1,4 +1,4 @@
-CharGenExplorer is an excercise in object-oriented programming. It is a text-based character generator, in the vein of
+CharacterGenerator is an excercise in object-oriented programming. It is a text-based character generator, in the vein of
 the same in Dwarf Fortress.
 
 Usage: navigate to this directory in your terminal emulator of choice and enter `python CharGenExplorer.py`
